@@ -31,8 +31,7 @@ First public release.
 - `AGENTS.md` portable directive for any other tool that reads `AGENTS.md`.
 - Project documentation: README, CONTRIBUTING, SECURITY, CODE_OF_CONDUCT, and
   this changelog.
-- Published as an npm package on GitHub Packages, `@aihxp/codeauditor`. The
-  `codeauditor` bin runs the installer, so `npx @aihxp/codeauditor` installs the
-  command into every detected tool.
+- Downloadable release archive (`codeauditor-1.0.0.zip` and `.tar.gz`) attached
+  to the GitHub release: unzip and run `./install.sh`.
 
 [1.0.0]: https://github.com/aihxp/codeauditor/releases/tag/v1.0.0
